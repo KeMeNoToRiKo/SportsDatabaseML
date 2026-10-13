@@ -1,0 +1,4 @@
+,skill_gap,fitness_gap,availability_gap
+Random split (avg of 500),0.67,0.74,10.1
+Group draft only,0.05,0.47,8.47
+Group draft + swaps (final),0.02,0.07,0.6

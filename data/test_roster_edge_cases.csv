@@ -1,0 +1,25 @@
+player_id,player_name,preferred_position,shooting,passing,defense,rebounding,fitness_level,availability_pct
+P030,Tess T.,Center,9,7,7,8,8,90
+P001,Sol L.,Guard,3,4,5,5,5,24
+P014,Bryce K.,Guard,8,8,3,5,6,80
+P046,Ely A.,Guard,2,3,5,3,4,44
+P037,Gab J.,Forward,3,4,9,9,6,85
+P015,Lara D.,Guard,8,8,6,5,7,74
+P054,Cedric F.,Forward,9,6,8,6,8,95
+P013,Vince B.,Guard,5,4,2,3,6,42
+P035,Wes I.,Guard,7,7,6,3,8,80
+P043,Yna C.,Forward,6,7,8,6,8,85
+P031,Hiro O.,Guard,5,5,5,5,5,47
+P060,Abel C.,Center,3,4,6,8,5,82
+T01,Missing fitness,Guard,7,7,4,4,,80
+T02,Too many missing,Forward,,,,6,6,70
+T03,Boundary minimum,Guard,1,1,1,1,1,0
+T04,Boundary maximum,Center,10,10,10,10,10,100
+T05,Shooting out of range,Guard,11,7,5,4,7,80
+T06,Negative availability,Forward,5,5,6,6,6,-5
+T07,Unknown position,Point Guard,7,8,4,3,7,85
+T08,Text in number field,Center,4,eight,7,8,6,75
+T09,Uncertain in-between,Guard,7,8,5,6,8,85
+T10,Lowercase position,forward,4,4,8,8,7,80
+T11,Missing position,,4,5,4,4,5,45
+T03,Boundary minimum,Guard,1,1,1,1,1,0
